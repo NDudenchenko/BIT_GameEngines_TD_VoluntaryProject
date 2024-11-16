@@ -13,7 +13,7 @@ namespace TowerDefense.MeshCreator
 	[Serializable]
 	public class AreaMeshCreator : MonoBehaviour
 	{
-		[HideInInspector]
+		//[HideInInspector]
 		public MeshObject meshObject;
 
 		public Transform outSidePointsParent;
