@@ -1,8 +1,12 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/UnityTechnologies/TowerDefenseTemplate/Scenes/Levels/Level6/Level6_navmesh/NavMesh-Road.asset.meta
 guid: 5a3024c58c2a7a24e842e6d5e4a9ff32
+========
+guid: 082f3bbc3742e6347b5448784ed635c0
+>>>>>>>> main:Assets/UnityTechnologies/TowerDefenseTemplate/Fonts/Roboto/New Material.mat.meta
 NativeFormatImporter:
   externalObjects: {}
-  mainObjectFileID: 23800000
+  mainObjectFileID: 2100000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
