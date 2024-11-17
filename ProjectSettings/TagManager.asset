@@ -23,6 +23,7 @@ TagManager:
   - FlyingEnemies
   - GroundEnemyTargettingProjectiles
   - LED Layer
+  - EnemiesPath
   - 
   - 
   - 
